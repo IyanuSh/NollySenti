@@ -1,5 +1,4 @@
-## [NollySenti: Leveraging Transfer Learning and Machine Translation for
-Nigerian Movie Sentiment Classification]()
+## [NollySenti: Leveraging Transfer Learning and Machine Translation for Nigerian Movie Sentiment Classification](http://arxiv.org/abs/2305.10971)
 
 This repository contains the code for [training movie review sentiment classification](https://github.com/IyanuSh/NollySenti/tree/main/train_textclass.py) and the [NollySenti data](https://github.com/IyanuSh/NollySenti/tree/main/data/) for Nigerian languages. 
 
@@ -21,13 +20,13 @@ If you make use of this dataset, please cite us:
 
 ### BibTeX entry and citation info
 ```
-@article{shode_africanlp,
-    author = {Shode, Iyanuoluwa and Adelani, David Ifeoluwa and Feldman, Anna},
-    title = "{YOSM: A new Yorùbá Sentiment Corpus for Movie Reviews}",
-    journal = {AfricaNLP 2022 @ICLR},
-    year = {2022},
-    month = {4},
-    url = {https://openreview.net/forum?id=rRzx5qzVIb9},
+@misc{shode2023nollysenti,
+      title={NollySenti: Leveraging Transfer Learning and Machine Translation for Nigerian Movie Sentiment Classification}, 
+      author={Iyanuoluwa Shode and David Ifeoluwa Adelani and Jing Peng and Anna Feldman},
+      year={2023},
+      eprint={2305.10971},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
